@@ -4501,6 +4501,10 @@ input[type="button"].btn-block {
 }
 
 @media (min-width: 576px) {
+
+   .avanti{
+    max-width: 40%;
+  }
   .card-deck {
     display: flex;
     flex-flow: row wrap;
@@ -6186,9 +6190,9 @@ button.bg-danger:focus {
   background-color: #bd2130 !important;
 }
 
-.bg-light {
+/*.bg-light {
   background-color: #F3F6FF !important;
-}
+}*/
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
